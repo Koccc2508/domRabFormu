@@ -1,0 +1,64 @@
+body{
+    background-image: url(../img/1674278473_catherineasquithgallery-com-p-serii-fon-profilya-steam-foto-47.jpg);
+   
+}
+a{
+    color: rgb(61, 155, 237);
+}
+a:hover{
+    text-decoration: none;
+}
+.conteiner{
+    width: 450px;
+    padding-bottom: 25px;
+    background-color: #31264e;
+    margin: 250px auto;
+    text-align: center;
+    box-shadow: 0 -5px 0 rgb(36, 36, 212);
+    border-radius: 10px;
+}
+
+
+.conteiner img{
+    width: 120px;
+    height: 120px;
+    margin: -60px 0 30px 0;
+    border: 5px solid color(srgb red green blue);
+    border-radius: 50%;
+    box-shadow: 0 -5px 0 blue;
+
+}
+input[type="text"],input[type="password"]{
+    width: 300px;
+    height: 50px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.box_submit{
+    padding: 13px 10px;
+    margin: 5px 0 20px 0;
+    font-size: 15px;
+    color:rgb(220, 185, 177);
+    background-color: #757def;
+    border:none;
+    border-bottom: 5px solid color(srgb red green blue);
+    cursor: pointer;
+    border-radius: 7px;
+
+}
+.box_submit:hover{
+    transition: all 0.5s;
+    background: #fff;
+    color: #df0b0b;
+    
+   }
+.Sozd{
+    padding-bottom: 10px;
+}
+   
+/* a{
+    transition: all 0.5s;
+
+} */
